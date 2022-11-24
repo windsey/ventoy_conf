@@ -1,0 +1,9 @@
+{
+    "control":[
+        { "VTOY_FILE_FLT_WIM": "1" },
+        { "VTOY_WIN11_BYPASS_CHECK": "1" },
+        { "VTOY_LINUX_REMOUNT": "1" },
+        { "VTOY_HELP_TXT_LANGUAGE": "zh_CN" },
+        { "VTOY_DEFAULT_SEARCH_ROOT": "/ISO" }
+    ]
+}
